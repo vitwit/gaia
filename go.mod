@@ -4,8 +4,7 @@ go 1.14
 
 require (
 	github.com/99designs/keyring v1.1.4 // indirect
-	github.com/cosmos/cosmos-sdk v0.38.3
-	github.com/cosmos/gaia v1.0.0
+	github.com/cosmos/cosmos-sdk v0.34.4-0.20200423152229-f1fdde5d1b18
 	github.com/gibson042/canonicaljson-go v1.0.3 // indirect
 	github.com/golang/mock v1.4.3 // indirect
 	github.com/gorilla/handlers v1.4.2 // indirect
