@@ -50,7 +50,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/mint"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	"github.com/cosmos/gaia/app"
+	"github.com/vitwit/gaia/app"
 )
 
 var (
